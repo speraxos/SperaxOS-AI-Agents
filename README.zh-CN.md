@@ -4,13 +4,13 @@
 
 包含 505+ 个专业 AI 智能体的综合集合，具有通用兼容性。适用于任何支持智能体索引的 AI 平台 - 无供应商锁定，无平台限制。
 
-[![][agents-shield]][agents-url]
-[![][build-shield]][build-url]
-[![][contributors-shield]][contributors-url]
-[![][forks-shield]][forks-url]
-[![][stargazers-shield]][stargazers-url]
-[![][issues-shield]][issues-url]
-[![][license-shield]][license-url]
+\[!\[]\[agents-shield]]\[agents-url]
+\[!\[]\[build-shield]]\[build-url]
+\[!\[]\[contributors-shield]]\[contributors-url]
+\[!\[]\[forks-shield]]\[forks-url]
+\[!\[]\[stargazers-shield]]\[stargazers-url]
+\[!\[]\[issues-shield]]\[issues-url]
+\[!\[]\[license-shield]]\[license-url]
 
 ---
 
@@ -5388,18 +5388,3 @@ GPT 代理提示优化专家。清晰、精准且简洁
 专注于撰写 Stable Diffusion 提示词
 
 `stable-diffusion` `prompt`
-
-[agents-shield]: https://img.shields.io/badge/智能体-505%2B-blue
-[agents-url]: #-智能体分类
-[build-shield]: https://github.com/nirholas/AI-Agents-Library/workflows/Release/badge.svg
-[build-url]: https://github.com/nirholas/AI-Agents-Library/actions
-[contributors-shield]: https://img.shields.io/github/contributors/nirholas/AI-Agents-Library.svg
-[contributors-url]: https://github.com/nirholas/AI-Agents-Library/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/nirholas/AI-Agents-Library.svg
-[forks-url]: https://github.com/nirholas/AI-Agents-Library/network/members
-[issues-shield]: https://img.shields.io/github/issues/nirholas/AI-Agents-Library.svg
-[issues-url]: https://github.com/nirholas/AI-Agents-Library/issues
-[license-shield]: https://img.shields.io/github/license/nirholas/AI-Agents-Library.svg
-[license-url]: https://github.com/nirholas/AI-Agents-Library/blob/main/LICENSE
-[stargazers-shield]: https://img.shields.io/github/stars/nirholas/AI-Agents-Library.svg
-[stargazers-url]: https://github.com/nirholas/AI-Agents-Library/stargazers
